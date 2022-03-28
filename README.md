@@ -1,5 +1,5 @@
-# DownRoll
-My current work in progress is a simple game coded in C and 68k Assembly language for an Atari ST. It will be completed by April 8th, 2022.
+# DownRoll (Work in Progress)
+A simple game coded in C and 68k Assembly language for an Atari ST. It will be completed by April 8th, 2022.
 
 
 # Game Description:
